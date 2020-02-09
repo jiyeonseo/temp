@@ -15,6 +15,6 @@ cd docs/.vuepress/dist
 #git init
 git add -A
 git commit -m 'update blog'
-git push git@github.com:jiyeonseo/test-page.git master:gh-pages
+git push -f git@github.com:jiyeonseo/test-page.git master:gh-pages
 
 cd -
