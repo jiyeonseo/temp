@@ -1,0 +1,24 @@
+{
+  "name": "new-blog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "doc" : "vuepress dev docs",
+    "build" : "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jiyeonseo/test-page.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jiyeonseo/test-page/issues"
+  },
+  "homepage": "https://github.com/jiyeonseo/test-page#readme",
+  "dependencies": {
+    "vuepress": "^1.3.0"
+  }
+}
